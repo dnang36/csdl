@@ -1,0 +1,14 @@
+{
+  "name": "vendor_name/csdl",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "ad",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
